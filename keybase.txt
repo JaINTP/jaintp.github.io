@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/jaintp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jaintp.github.io
+  * I am jaintp (https://keybase.io/jaintp) on keybase.
+  * I have a public key with fingerprint ACAC A31B FDBD 5F87 FE98  6CF4 8362 FB7F AD84 CE96
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012035f878256bfd2db14c2c06f7bb1ab1c3df8956d83825d1615ab4ae020484a1f30a",
+      "fingerprint": "acaca31bfdbd5f87fe986cf48362fb7fad84ce96",
+      "host": "keybase.io",
+      "key_id": "8362fb7fad84ce96",
+      "kid": "0101833b83cf90e2502623639e4b4b191124e63d435c80b1d2ec78d5f6209e90cb640a",
+      "uid": "4cf4bf8877a8205eaf3ff7975897e619",
+      "username": "jaintp"
+    },
+    "service": {
+      "hostname": "jaintp.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1605480812,
+  "expire_in": 157680000,
+  "prev": "cc7b1fe809a5f878693b8c64e5a451c94e28599011b9e770db994056fd9b0743",
+  "seqno": 49,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNyAnicbVJtUFRVGF5gE9uJgMmPZBzTixIzAd3vjy0TJ5dhsdgcK8Ck9Z57z10u
+S7vbfqEwgIEM4wzOKCgoIDhj5gdLAyElfWiwDla0CaNOIEZgGeDIDlOaYOJ2L+WP
+Zjrnx5nzvs/znOd9z3sxKkKjC6sAf5W17fmhLqy/p8GjMXd0FBQjwC7uQvTFiBUu
+HLBAhC632SqLiB5BMRwlKIllWJyigSTiIsBIARdQWmIAwHiACYQosRxFiyyhYESM
+xigekDxEcZRkSR6TCJRHkhBJtlmg0+GUbW5FlheUTWCKIBBVdQlyLC1IJEvQuAQY
+iRdZUoAcrRDz7C6VoZgDvAumyHYlplzMC/b+B//YN4qxBAFYQpA4FOIUitM4QRMc
+JAEJMA7DcBLShEgSlMCiABNxKDCs4oXGUQ5yqABocsG3Z0GOVLwBiWUZhmdxlIK8
+REgSwzEUyzGQxjgV6IJOG/8eVND5vFKlAylJQpSYVxag2la1jv/kUyyyO88D/qnI
+4bS77YK9QMnmud0Ol15lu3c5VHghBOZ/hcxAtolKJxWGFzpdst2G6DEFKbhlVRmj
+UYpkURbDkxC40yE7oVlWERRDs6iy1HegV5EUBAZgEmRRjl/4XJpTWiXQJKR4ksIE
+joQ4S3EcimGAgwyDioDjSJSiJZEDKEMSiFra+zY7oic5xSdvUTRdssXGuz1OiJT0
+9mzXasJ0mkVPhKsjptE9GfN48BJTo+fCTv74+uE3coqac2KHz5Qun4td+91QSsL5
+RdXWpg9yzSNhb31tbWvx+2HJqci47Li403W+0aKxpVmS3nPwqZD1YKpvy1cbvzds
+NRW2Tyw7ej9c+2VZ54eBG/Wx/MzD0dEHD4TKwfYdPaWH06vfuc0kX8t1bgrWWtNA
+z73+E7XswJ4i/MBLUbqajFmPO/AmfS7u20DClsWv/fyyJccc6o5xjhvGy6cmK6i2
+3VMJ86zv8s1fmodiXuz06geo4FxS+bqZzq1VhloTrKqJR6syDzVE+Qfmhy6vvG4c
+NrSaVp8eSaiGwvJt2UFdT7S/aTwplG5fYu96ob2/pmGNPq1P1zSYlTrae7zmD9+2
+wGB3LBafXmrstv15wD+3WfNw490WbUvAeiejtfLYuyef25cxLTTmFm2fifm1Jjnt
+t7uzcc8HsncnXM2aXHXdO6i95Q89MxH99u2pJb/rb3x6qXgyFH6/bMN88VLtlfWV
+q/a7zlqMzfXG5Nbx/ZGJz5o++WlHZOwh4+KpW30tkaWGYEm5z9A4W3GhbTpzw6ML
+k9N5r655BXblx+91GPdqj9Q+ClLLPpsfnsgM9mnW1X/kutJ4/sym3i77F5vzV0bk
+mzqOnLKtrVt/7+nabzrbHMP9H9/pWgEjExH/iYaOuZ2ms40lEWOfT9+8FhobODZy
+tcWbO9C3+uKKc3qb4ZKv8G+ad9Cs
+=DT4z
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jaintp
+
+==================================================================
